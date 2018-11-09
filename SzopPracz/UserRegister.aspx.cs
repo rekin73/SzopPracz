@@ -56,6 +56,7 @@ namespace SzopPracz
                 command.CommandText = $"INSERT INTO users (user,password) VALUES ('{login}','{password}')";
                 System.Diagnostics.Debug.WriteLine(command.CommandText);
                 command.ExecuteNonQuery();
+                conn.Close();
             }
             catch(MySql.Data.MySqlClient.MySqlException ex)
             {
@@ -66,6 +67,32 @@ namespace SzopPracz
         protected void bRSubmit_Click(object sender, EventArgs e)
         {
             insert(txRLogin.Text, txRPassword.Text);
+        }
+
+        protected void CustomValUserEgsists_ServerValidate(object source, ServerValidateEventArgs args)
+        {
+            try
+            {
+                MySqlConnection conn = connect();
+                MySqlCommand command = conn.CreateCommand();
+                if (conn == null) lInfo.Text = "Brak połączenia";
+                command.CommandText = $"SELECT user FROM users WHERE user = '{args.Value}'";
+                MySqlDataReader reader = command.ExecuteReader();
+                System.Diagnostics.Debug.WriteLine(reader.Read());
+                conn.Close();
+                if (!reader.HasRows)
+                {
+                    args.IsValid = true;
+                }
+                else
+                {
+                    args.IsValid = false;
+                }
+            }
+            catch(MySql.Data.MySqlClient.MySqlException ex)
+            {
+                lInfo.Text = $"Wystąpił błąd danych:{ex}";
+            }
         }
     }
 }

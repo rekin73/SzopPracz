@@ -1,0 +1,123 @@
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\csc.exe
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\csc.exe.config
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\csc.rsp
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\csi.exe
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\csi.exe.config
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\csi.rsp
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.AppContext.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Console.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\vbc.exe
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\vbc.exe.config
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\vbc.rsp
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\SzopPracz.dll.config
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\SzopPracz.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\SzopPracz.pdb
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\MySql.Data.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\MySql.Web.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\Google.Protobuf.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\MySql.Data.xml
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\bin\MySql.Web.xml
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\obj\Debug\SzopPracz.csprojResolveAssemblyReference.cache
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\obj\Debug\SzopPracz.csproj.CoreCompileInputs.cache
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\obj\Debug\SzopPracz.dll
+C:\Users\Kalinowski Hubert\source\repos\SzopPracz\SzopPracz\obj\Debug\SzopPracz.pdb
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\csc.exe
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\csi.exe
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\SzopPracz.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\SzopPracz.pdb
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\Google.Protobuf.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\MySql.Data.xml
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\MySql.Web.xml
+C:\Users\User\Downloads\SzopPracz\SzopPracz\obj\Debug\SzopPracz.csprojAssemblyReference.cache
+C:\Users\User\Downloads\SzopPracz\SzopPracz\obj\Debug\SzopPracz.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SzopPracz\SzopPracz\obj\Debug\SzopPracz.csproj.CopyComplete
+C:\Users\User\Downloads\SzopPracz\SzopPracz\obj\Debug\SzopPracz.dll
+C:\Users\User\Downloads\SzopPracz\SzopPracz\obj\Debug\SzopPracz.pdb
+C:\Users\User\Downloads\SzopPracz\SzopPracz\bin\SzopPracz.dll.config
